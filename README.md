@@ -1,4 +1,3 @@
-# genescope-nasa-genelab-visualizer
 
 # 🚀 GeneScope: NASA GeneLab Dataset Visualizer
 
