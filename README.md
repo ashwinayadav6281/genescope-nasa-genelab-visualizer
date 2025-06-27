@@ -79,13 +79,6 @@ node index.js
 
 ---
 
-## 🌐 Screenshots
-
-| Home View | Study Card |
-|-----------|------------|
-| ![Home](https://your-screenshot-link.com) | ![Study](https://your-screenshot-link.com) |
-
----
 
 ## 📦 API Reference
 
