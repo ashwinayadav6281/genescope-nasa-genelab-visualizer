@@ -53,7 +53,7 @@ genescope-nasa-genelab-visualizer/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/genescope-nasa-genelab-visualizer.git
+git clone https://github.com/ashwinayadav6281/genescope-nasa-genelab-visualizer.git
 cd genescope-nasa-genelab-visualizer
 ```
 
@@ -87,7 +87,7 @@ node index.js
 ## 📄 License
 
 MIT License  
-© 2025 [Your Name](https://github.com/your-username)
+© 2025 [Ashwina Yadav](https://github.com/ashwinayadav6281)
 
 ---
 
@@ -95,4 +95,3 @@ MIT License
 
 - 🚀 NASA GeneLab for their incredible open data  
 - 🧪 Researchers who contributed biological experiment data  
-- 👨‍💻 Developed during my Software Engineering Internship (Summer 2025)
