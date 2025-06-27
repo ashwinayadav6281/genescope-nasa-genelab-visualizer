@@ -14,7 +14,6 @@ GeneScope is a full-stack web application that lets users explore, search, and v
 - 🖼️ **Thumbnail Previews** for each study
 - 🧬 Explore 5000+ gene expression data points
 - ⚡ Fast and responsive design with modern UI
-- 🎨 NASA-inspired theme for an immersive experience
 
 ---
 
@@ -24,7 +23,7 @@ GeneScope is a full-stack web application that lets users explore, search, and v
 - React.js
 - Axios
 - Chart.js
-- CSS (custom dark theme)
+- CSS 
 
 ### Backend
 - Node.js
