@@ -10,7 +10,6 @@ GeneScope is a full-stack web application that lets users explore, search, and v
 ## 🛰 Features
 
 - 🔍 **Search & Filter** datasets by organism, tissue type, and mission
-- 📊 **Interactive Data Visualization** with Chart.js (gene expression values)
 - 🖼️ **Thumbnail Previews** for each study
 - 🧬 Explore 5000+ gene expression data points
 - ⚡ Fast and responsive design with modern UI
